@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 WPBF - a multithreaded WP brute forcer
 ======================================
 
@@ -14,3 +15,9 @@ verbose = True
 debug    = False
 
 You can change them by editing the script.
+=======
+wpbf
+====
+
+WPBF - a multithreaded WP brute forcer
+>>>>>>> 6338ba76dbcaebd203dc60771df75cf2c81ba57d
